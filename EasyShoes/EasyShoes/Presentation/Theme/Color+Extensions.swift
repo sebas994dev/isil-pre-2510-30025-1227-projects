@@ -8,5 +8,5 @@
 import SwiftUI
 
 extension Color {
-    static let brandPrimary = Color(red: 255/255, green: 107/255, blue: 53/255 )
+    static let brandPrimary = Color(red: 66/255, green: 135/255, blue: 245/255 )
 }
